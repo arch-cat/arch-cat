@@ -5,7 +5,7 @@
 
 ### :alien: &nbsp;About Me :
 
-I am a administrator/devops <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I'm administrator/devops <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 - :computer: I work as a maintenance engineer
 - :exclamation: Learn ansible, python, groovy (etc.), shell scripting
